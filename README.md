@@ -13,7 +13,7 @@ This Python script uses `undetected_chromedriver` and Selenium to scrape Amazon 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/amazon-search-scraper.git
+   git clone https://github.com/newspart/amazon-search-scraper.git
    cd amazon-search-scraper
    ```
 2. Install dependencies:
