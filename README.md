@@ -2,6 +2,9 @@
 
 This Python script uses `undetected_chromedriver` and Selenium to scrape Amazon search results for product names and prices, with support for setting a custom country code to view region-specific results.
 
+## Disclaimer
+This script is for educational purposes only. Ensure compliance with Amazon's terms of service and applicable laws when scraping. The author is not responsible for any misuse or violations.
+
 ## Prerequisites
 - **Python**: Version 3.6 or higher.
 - **Chrome/Chromium**: Installed on your system.
